@@ -1,3 +1,0 @@
-This is a test file for the simulation
-
-1. Initial commit file
